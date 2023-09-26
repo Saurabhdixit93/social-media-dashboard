@@ -1,6 +1,4 @@
-Certainly, here's a more comprehensive README.md that introduces both the client-side and server-side setups for your social media dashboard project:
 
----
 
 # Social Media Dashboard
 
